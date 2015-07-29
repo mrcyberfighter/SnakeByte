@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=SnakeByte
+GenericName=SnakeByte
+Comment=An pacman game as an snake in a labyrinth to eat apples for open the exit.
+Icon=/usr/share/SnakeByte/Icon/SnakeByte_icon.png
+Exec=python2 /usr/bin/SnakeByte.py
+Terminal=false
+StartupNotify=true
+Categories=Game;
