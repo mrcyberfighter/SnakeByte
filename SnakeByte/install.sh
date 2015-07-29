@@ -110,7 +110,7 @@ then
 
 else
 
-  echo "Cannot create dekstop shortcut:"
+  echo "Cannot create desktop shortcut:"
   echo "No folder: /usr/share/applications"
   echo
 
